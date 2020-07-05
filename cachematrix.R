@@ -31,7 +31,7 @@ makeCacheMatrix <- function(m = matrix()) {
 	
 ## Write a short comment describing this function
 
-
+##To get my cachesolve fuction I followed the next steps
 cacheSolve <- function(x, ...) {
 ## Return a matrix that is the inverse of 'x'
 }
